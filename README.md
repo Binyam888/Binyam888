@@ -9,8 +9,7 @@
 
 - 📫 How to reach me **binyam0068@gmail.com**
 
-  <img align="right" src="https://github.com/Binyam888/Binyam888/assets/147620229/e94f849c-de3a-4570-bc35-138965115eb5"
-  height="300" width="400" />
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
