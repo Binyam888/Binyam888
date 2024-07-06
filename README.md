@@ -1,4 +1,4 @@
-![Tech Digital Art Header](https://i.imgur.com/dYgPHGl.png)
+
 
 <h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=35&duration=4000&pause=1000&color=3498DB&center=true&vCenter=true&width=500&height=70&lines=Hello%2C+I'm+Mohammed+Binyamin!;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" /></a>
@@ -12,7 +12,7 @@
 
 - 🔭 I'm currently working on exciting web development projects
 - 🌱 I'm always learning and improving my skills in various technologies
-- 👯 I'm looking to collaborate on innovative web and mobile applications
+- 👯 I'm looking to collaborate on innovative web applications
 - 💬 Ask me about front-end and back-end development
 - 📫 How to reach me: Connect with me on LinkedIn or Instagram!
 
