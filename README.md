@@ -16,7 +16,7 @@
 - 💬 Ask me about front-end and back-end development
 - 📫 How to reach me: Connect with me on LinkedIn or Instagram!
 
-<h2 align="left" style="font-family: 'Montserrat', sans-serif; font-weight: 600; color: #e74c3c;">My Skills</h2>
+<h2 align="left" style="font-family: 'Montserrat', sans-serif; font-weight: 600; color: #e74c3c;">Tech Stack</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -35,6 +35,9 @@
   <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="Adobe XD" />
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="Photoshop" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+    <img src="https://img.shields.io/badge/React_Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Context API" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
 <h2 align="left" style="font-family: 'Montserrat', sans-serif; font-weight: 600; color: #9b59b6;">My GitHub Stats</h2>
